@@ -30,11 +30,11 @@ class ComposerStaticInitfbee484fbcb98ba45566f17e8eb69e9b
     public static $prefixDirsPsr4 = array (
         'Tests\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/tests',
+            0 => __DIR__ . '/../..' . '/test',
         ),
         'Tennis\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/classes',
+            0 => __DIR__ . '/../..' . '/Tennis/classes',
         ),
         'PhpParser\\' => 
         array (
